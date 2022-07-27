@@ -1,2 +1,2 @@
 # mascotas
-mascotas de vale
+las mascotas de vale 
